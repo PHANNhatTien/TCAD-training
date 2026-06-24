@@ -8,5 +8,8 @@ we try to simulate CMOS device alternative solution for TCAD sentaurus.
   <em> 2d mesh structure </em>
 </p>
 
-<img width="1024" height="768" alt="IMG_0109" src="https://github.com/user-attachments/assets/e6c21ce8-200c-473c-b047-1ae8852f93fe" />
-# 3d structure
+<p align="center">
+  <img width="1024" height="768" alt="IMG_0109" src="https://github.com/user-attachments/assets/e6c21ce8-200c-473c-b047-1ae8852f93fe">
+  <br>
+  <em> 3d structure </em>
+</p>
